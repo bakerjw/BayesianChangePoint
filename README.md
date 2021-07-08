@@ -1,4 +1,4 @@
-# Bayesian Change Point Calculation
+# Bayesian Change Point calculation
 
 Detect change points in a spatial Poisson processes: Application to induced seismicity in Oklahoma
 
